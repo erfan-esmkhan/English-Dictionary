@@ -219,6 +219,7 @@
   .fa-github{
     font-size: 1.6rem;
     margin: 0 .8vw;
+       color: var(--Gray);
   }
   .fa-github:hover{
     color: var(--white);
@@ -234,6 +235,7 @@
   .fa-linkedin{
     font-size: 1.6rem;
       margin: 0;
+       color: var(--Gray);
   }
   .fa-linkedin:hover{
     color: var(--white);
