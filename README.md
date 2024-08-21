@@ -1,6 +1,7 @@
 ### Online English Dictionary
 
-In today's digital age, access to quality educational resources is more important than ever. That's why we're excited to introduce [Your Project Name], a free online English dictionary designed to help learners of all ages and proficiency levels improve their language skills.
+In today's digital age, access to quality educational resources is more important than ever. That's why we're excited to introduce English Dictionary
+, a free online English dictionary designed to help learners of all ages and proficiency levels improve their language skills.
 
 Our Mission
 
